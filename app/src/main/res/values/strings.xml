@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Fashion Assistant</string>
+    <string name="wardrobe">Гардероб</string>
+    <string name="outfits">Образы</string>
+    <string name="add_item">Добавить вещь</string>
+    <string name="create_outfit">Создать образ</string>
+    <string name="take_photo">Сфотографировать</string>
+    <string name="choose_photo">Выбрать из галереи</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="item_name">Название вещи</string>
+    <string name="outfit_name">Название образа</string>
+    <string name="category">Категория</string>
+    <string name="color">Цвет</string>
+    <string name="evaluate_outfit">Оценить образ</string>
+    <string name="outfit_score">Оценка образа</string>
+    <string name="no_items">Нет вещей в гардеробе</string>
+    <string name="no_outfits">Нет созданных образов</string>
+    <string name="add_first_item">Добавьте первую вещь в свой гардероб</string>
+    <string name="create_first_outfit">Создайте свой первый образ</string>
+    <string name="select_items_for_outfit">Выберите вещи для образа</string>
+    <string name="camera_permission_required">Необходимо разрешение на использование камеры</string>
+    <string name="storage_permission_required">Необходимо разрешение на доступ к фото</string>
+</resources>
